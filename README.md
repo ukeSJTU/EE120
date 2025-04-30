@@ -1,3 +1,31 @@
+# EE120
+
+The original course home page can be found here: [EE120 Home Page](#ee120-home-page)
+
+原课程主页可在此处找到：[EE120 主页](#ee120-home-page)
+
+This repository serves as a backup of the EE120 course materials, making them accessible to those without UCB credentials. I plan to supplement the repository with my personal notes and solutions in the future.
+
+本仓库作为 EE120 课程资料的备份，让无法访问 UCB 的人也能查看课程内容。我计划在未来补充个人的笔记和习题解答。
+
+-   [ ] Add personal notes and solutions
+
+-   [ ] 添加个人笔记和习题解答
+
+To clone the repository locally:
+
+在本地克隆仓库：
+
+```bash
+git clone https://github.com/ukeSJTU/EE120.git
+```
+
+Note: Some lab files exceed GitHub's file size limit. These files can be downloaded from the releases page: https://github.com/ukeSJTU/EE120/releases/tag/v0.1.0
+
+注意：部分实验文件超过了 GitHub 的文件大小限制。这些文件可以从发布页面下载：https://github.com/ukeSJTU/EE120/releases/tag/v0.1.0
+
+---
+
 # EE120 Home Page
 
 [University of California at Berkeley](http://www.berkeley.edu/)  
